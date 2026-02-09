@@ -30,3 +30,5 @@
 *.R~
 *.*#
 *.gitex
+rockchalk/vignettes/*.pdf
+rockchalk/vignettes/rockchalk.tex
